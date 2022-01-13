@@ -7,6 +7,7 @@
 4. Input `npm run dev` or the yarn equivalent and open `localhost:3000` on your browser
 
 **If that doesn't work**
+
 You can browse `/posts` for the interview notes as well.
 
 ## Why did you do this? Isn't Word or Docs easier?
