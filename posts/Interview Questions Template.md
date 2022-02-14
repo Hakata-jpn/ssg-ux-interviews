@@ -1,10 +1,13 @@
 ---
 title: UX Interview Template
 description: Interview with Max, the owner's son.
-date: '2020-01-01'
+date: '2022-01-31'
 ---
 
 ## Tell me about [insert magic company here], and what your interactions with the Murphy's Magic Site?
+
+
+## When looking for new products to promote, what is your strategy for finding new products to promote and sell?
 
 
 
@@ -12,7 +15,7 @@ date: '2020-01-01'
 
 
 
-## How often do you use other shopping websites and how do they compare with Murphy's Magic?
+## How often do you use other shopping websites and how do they compare with Murphy's Magic? What functions on those websites do you find to be the most useful?
 
 
 

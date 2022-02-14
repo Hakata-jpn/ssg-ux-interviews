@@ -22,7 +22,7 @@ Most of them are not technical, and come to Double Fox because they hate dealing
 
 Because the download system was so confusing, it lost them a dealer as a client.
 
-## You said you send emails out to clients, what kinds do you send?
+## You said you send emails out to clients, what kinds of emails do you send?
 
 Flash sale emails, with warnings about participation dates. Discusses the implementation of new features with dealers. Notifies people with any issues, site outages, and so forth. 
 

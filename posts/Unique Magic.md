@@ -30,6 +30,6 @@ Accesses recent orders quite frequently, not really concerned with anything othe
 
 ## What features or improvements would you like to see in the next version of this website? 
 Some products will not show up when he searches a product key unless he's logged in, not sure why.
-Downloads have to be purchased separately from physical goods, that's about the only
+Downloads have to be purchased separately from physical goods, that's about the only thing.
 Billing would be nicer if they were charged to the dealer when the physical goods in the same invoice on the same day.
 Wants to be able to drop ship orders, adds the shop name in the mailing information automatically as if the drop ship is being mailed to his business, but he wants to put it in manually so that they can list the name of the person they want to ship to instead. Otherwise, he has to manually have sales fix it every time he drop ships.

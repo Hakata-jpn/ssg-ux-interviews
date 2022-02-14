@@ -18,21 +18,15 @@ Very comfortable using a computer.
 
 Murphy's a great website, UI is good but a few tweaks. Missing a few tweaks and it's good.
 
-## On a scale from 1-10 (with 10 as a perfect score), how would you rate the experience of using the Murphy's Magic website and why?
-
-
-
-## What features are you using on the website that don't involve directly purchasing goods?
-
-
-
 ## What are your first thoughts when you look at the home page?
 
 The boxes are great, I wish I could get a larger copy of the ad images for myself. Because it's an L shape, he can't use this. Easier access to marketing information is critical, but missing here.
 
 ## What are your first thoughts when you look at the accounts page?
 
-Got all the data that he needs
+Got all the data that he needs. Only really needs it for accessing invoices, wires over cash exclusively (No way to see that stuff even if there are options for Checks and Cards, would love to see invoices for that).
+
+Uses the Pay by Check option, tick up all of the options up to the amount he's wired up, and adds a note that says they've paid the amount via wire. Would like a way to see how he's paid/would like to see invoices in a list. Pretty minimal time on there, 2-3 times a week and does most of his work on a spreadsheet. 
 
 ## What features or improvements would you like to see in the next version of this website?
 
