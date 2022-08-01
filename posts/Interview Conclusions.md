@@ -1,7 +1,7 @@
 ---
-title: Interview Conclusions
+title: Detailed Interview Findings
 description: Notes that synthesize findings from all 15 interviews
-date: '2022-01-31'  
+date: '2022-02-30'  
 ---
 
 ## Interview Findings:

@@ -1,7 +1,7 @@
 ---
-title: Interview Summary
+title: Interview Summary, Final Thoughts
 description: Notes that synthesize findings from all interviews
-date: '2020-01-01'
+date: '2020-03-01'
 ---
 
 ## TL;DR
