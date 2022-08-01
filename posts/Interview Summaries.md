@@ -1,7 +1,7 @@
 ---
 title: Individual Interview Summaries
 description: Notes that synthesize findings from all interviews
-date: '2022-02-29'
+date: '2022-02-27'
 ---
 
 ## Vendor: Double Fox Magic
