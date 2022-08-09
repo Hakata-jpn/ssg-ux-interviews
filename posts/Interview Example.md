@@ -1,10 +1,12 @@
 ---
 title: Interview Example
-description: Interview with Dominic, a hybrid online/Brick and Mortar store.
+description: Interview with a hybrid online/physical retail store.
 date: '2022-01-10'
 ---
 
-## Tell me about Merchant of Magic, and what your interactions with the Murphy's Magic Site?
+### This interview is here to demonstrate what one of my interviews was like. For the sake of anonymity, identify
+
+## Tell me about [Magic Trick Retailer] and what your interactions with the Murphy's Magic Site?
 
 Mostly does work through web services, some aspects of sales are manually to merge with the web services. Is a hybrid model since they are also a brick and mortar. Looks for items to promote, hidden gems that he can get more of in his shop. Sometimes chooses them over presales since they're more under the radar compared to prerelease items. Uses the videos from Murphy's, uses direct video embeds from Murphy's, as well as uploading videos into Vimeo.
 
